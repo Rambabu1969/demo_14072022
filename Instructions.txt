@@ -1,0 +1,10 @@
+Procedure:
+1. Download Free Website Template (eg., https://www.free-css.com)
+2. Create Angular Project
+3. Configure Bootstrap
+4. Copy Header Content in index.html
+5. Copy Body Content in app.component.html
+6. Copy CSS content into styles.css
+7. Copy images into assets/images folder
+8. Change Image Path wherever required.
+9. Run Angular Project

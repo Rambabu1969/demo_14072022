@@ -9,6 +9,10 @@ import { ProductComponent } from './product/product.component';
 import { DealComponent } from './deal/deal.component';
 import { ContactComponent } from './contact/contact.component';
 
+import { HttpClientModule } from '@angular/common/http';
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,7 +24,8 @@ import { ContactComponent } from './contact/contact.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

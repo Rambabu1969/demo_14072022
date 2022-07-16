@@ -19,7 +19,7 @@
 
 // }
 
-let countDate = new Date('july 15, 2022 00:00:00').getTime();
+let countDate = new Date('july 17, 2022 00:00:00').getTime();
 
 function CountDown(){
 
